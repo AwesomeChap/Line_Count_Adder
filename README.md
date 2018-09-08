@@ -1,8 +1,11 @@
 # Line_Count_Adder
-It contains an application made from assembly language which takes a file as input and adds line counter to the file at every 64 bytes and records output in another file
+It contains an application made from assembly language which takes a file as input and adds line counter to the file at every 64 bytes and records output in another file   
+   
+Input File    
 
-![alt text](input.png "Input File")
-Input File
+![alt text](input.png "Input File")   
+
+Output File generated   
 
 ![alt text](output.png "Output File Generated")
 Output FIle generated
