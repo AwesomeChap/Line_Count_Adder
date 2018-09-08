@@ -5,10 +5,9 @@ It contains an application made from assembly language which takes a file as inp
 
 ![alt text](input.png "Input File")   
 
-Output File generated   
+<b>Output File generated</b>   
 
 ![alt text](output.png "Output File Generated")
-Output FIle generated
 
 # Installation
 Install Nasm if not preinstalled   
