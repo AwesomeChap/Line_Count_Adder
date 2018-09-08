@@ -1,0 +1,23 @@
+1/ What is Lorem Ipsum?
+2/ Lorem Ipsum is simply dummy text of the printing and typesettin
+3/ g industry. Lorem Ipsum has been the industry's standard dummy 
+4/ text ever since the 1500s, when an unknown printer took a galle
+5/ y of type and scrambled it to make a type specimen book. It has
+6/  survived not only five centuries, but also the leap into elect
+7/ ronic typesetting, remaining essentially unchanged. It was popu
+8/ larised in the 1960s with the release of Letraset sheets contai
+9/ ning Lorem Ipsum passages, and more recently with desktop publi
+10/ shing software like Aldus PageMaker including versions of Lorem
+11/  Ipsum.
+12/ 
+13/ Why do we use it?
+14/ It is a long established fact that a reader will be distracted 
+15/ by the readable content of a page when looking at its layout. T
+16/ he point of using Lorem Ipsum is that it has a more-or-less nor
+17/ mal distribution of letters, as opposed to using 'Content here,
+18/  content here', making it look like readable English. Many desk
+19/ top publishing packages and web page editors now use Lorem Ipsu
+20/ m as their default model text, and a search for 'lorem ipsum' w
+21/ ill uncover many web sites still in their infancy. Various vers
+22/ ions have evolved over the years, sometimes by accident, someti
+23/ mes on purpose (injected humour and the like).
