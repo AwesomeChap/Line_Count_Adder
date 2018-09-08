@@ -14,7 +14,7 @@ Build Using these commands:
 ```ruby
 nasm -f elf -g -F stabs modified_textfile.asm
 nasm -f elf -g -F stabs linelib.asm
-gcc -m32 textfile.o linlib.o -o modified_textfile
+gcc -m32 modified_textfile.o linlib.o -o modified_textfile
 ```   
 
 Now, after generating binaries we need to run our program using
