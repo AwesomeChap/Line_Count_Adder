@@ -1,7 +1,7 @@
 # Line_Count_Adder
 It contains an application made from assembly language which takes a file as input and adds line counter to the file at every 64 bytes and records output in another file   
    
-Input File    
+<b>Input File</b>    
 
 ![alt text](input.png "Input File")   
 
@@ -11,6 +11,7 @@ Output File generated
 Output FIle generated
 
 # Installation
+Install Nasm if not preinstalled   
 just downaload the zip or clone using
 ```ruby
 git clone https://github.com/AwesomeChap/Line_Count_Adder.git
