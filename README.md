@@ -1,5 +1,5 @@
 # Line_Count_Adder
-It contains an application made from assembly language which takes a file as input and adds line counter to the file at every 64 bytes and records output in another file   
+It contains an application made up of assembly language which takes a file as input and adds line index to the file at every 64 bytes and records output in another file.   
    
 <b>Input File</b>    
 
@@ -19,5 +19,6 @@ git clone https://github.com/AwesomeChap/Line_Count_Adder.git
 Navigate to your folder directory and open the terminal and type
 ```ruby
 ./modified_textfile input.txt output.txt
-```
+```   
+<b>Note: <b><i>This application was build in linux so if you wish to run it on windows you might need do some adjusments. However, Most of the issues should get sloved using Git Bash</i>
 
