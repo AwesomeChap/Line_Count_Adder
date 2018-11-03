@@ -33,5 +33,5 @@ Now, after generating binaries we need to run our program using
 
 ![alt text](output.png "Output File Generated")
 
-<b>Note: </b><i>This application was build in linux so if you wish to run it on windows you might need do some adjusments. However, Most of the issues should get sloved using Git Bash</i>
+<b>Note: </b><i>This application was build in linux so if you wish to run it on windows you might need do some adjusments. However, Most of the issues should get solved using Git Bash</i>
 
